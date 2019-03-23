@@ -1,5 +1,5 @@
 # SPIE-2019-Code
-This repository contains code for Effective 3D humerus and scapula extraction using low-contrast and high-shape-variability MR data
+This repository contains code for [Effective 3D humerus and scapula extraction using low-contrast and high-shape-variability MR data](https://doi.org/10.1117/12.2513107).
 
 The data for training the network can not be published by the regulation of clinics and Patient Privacy laws.
 
