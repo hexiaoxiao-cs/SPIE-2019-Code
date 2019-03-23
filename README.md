@@ -4,10 +4,10 @@ This repository contains code for Effective 3D humerus and scapula extraction us
 The data for training the network can not be published by the regulation of clinics and Patient Privacy laws.
 
 Please contact:
-  - * Kang Li kang.li@rutgers.edu
+  - \* Kang Li kang.li@rutgers.edu
   - Xiaoxiao He xh172@scarletmail.rutgers.edu
   - Chaowei Tan chaoweitan@gmail.com
-  * for the corresponding author
+  - "\*" for the corresponding author
 
 ## For using this code
   ### We encourage you to use the anaconda for python environment
